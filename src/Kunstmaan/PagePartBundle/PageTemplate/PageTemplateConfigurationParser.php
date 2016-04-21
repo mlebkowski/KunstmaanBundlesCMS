@@ -97,7 +97,7 @@ class PageTemplateConfigurationParser implements PageTemplateConfigurationParser
             throw new \Exception(sprintf('Malformed namespaced configuration name "%s" (expecting "namespace:pagename").', $name));
         }
 
-        list ($namespace, $name) = explode($name, ':', 2);
+        list ($namespace, $name) = explode(':', $name, 2);
         $path = $this->kernel->locateResource('@' . $namespace . '/Resources/config/pagetemplates/' . $name . '.yml');
         $rawData = Yaml::parse(file_get_contents($path));
 

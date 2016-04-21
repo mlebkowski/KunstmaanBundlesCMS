@@ -67,6 +67,15 @@ class PageTemplateWidget extends FormWidget
      */
     protected $pageTemplateConfiguration;
 
+    /**
+     * @param HasPageTemplateInterface $page
+     * @param Request $request
+     * @param EntityManagerInterface $em
+     * @param PagePartAdminFactory $pagePartAdminFactory
+     * @param PageTemplateConfigurationReaderInterface $templateReader
+     * @param PagePartConfigurationReaderInterface $pagePartReader
+     * @param PageTemplateConfigurationService $pageTemplateConfiguratiorService
+     */
     public function __construct(
         HasPageTemplateInterface $page,
         Request $request,
