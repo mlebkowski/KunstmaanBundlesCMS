@@ -1,0 +1,36 @@
+# Media
+seo:
+    robots:
+        tip: Czy wiesz że:
+        warning: To jest tylko przykładowa wartość, plik robots.txt jest jeszcze ustawiony
+        moreinfo: You can find more information about the Kunstmaan robots.txt at our
+
+    action:
+        save: Zapisz
+        cancel: Anuluj
+        preview: Podgląd
+
+    form:
+        og:
+            title: OG Title
+            description: OG Description
+            url: OG Url
+            type: OG Type
+            image: OG Image
+        twitter:
+            title: Title
+            description: Description
+            sitehandle: Site Handle
+            creatorhandle: Creator Handle
+            image: Image
+        robots:
+            noindex: No index
+            nofollow: No follow
+            noarchive: No archive
+            nosnippet: No snippet
+            notranslate: No translate
+            noimageindex: No image index
+
+    pagetabs:
+        opengraph: Open Graph
+        twittercards: Twitter Cards

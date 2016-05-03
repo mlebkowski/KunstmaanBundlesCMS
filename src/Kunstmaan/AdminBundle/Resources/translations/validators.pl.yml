@@ -1,0 +1,10 @@
+errors:
+  password:
+    dontmatch: Podane hasła nie są identyczne
+
+  user:
+    loginexists: Podana nazwa użytkownika istnieje już w bazie
+    emailexists: Podany adres e-mail istnieje już w bazie
+
+  group:
+    selectone: Zaznacz przynajmniej jedną z opcji

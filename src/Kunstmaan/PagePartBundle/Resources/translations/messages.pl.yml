@@ -1,0 +1,27 @@
+pagepart:
+    header:
+        type: 'Typ nagłówka'
+        title: 'Tytuł'
+
+    link:
+        choose: 'Wybierz adres docelowy'
+        openinnewwindow: 'Otwieraj w nowym oknie'
+        text: 'Etykieta'
+
+    html:
+        content: 'Treść'
+
+    text:
+        content: 'Treść'
+
+    buttons:
+        move_up: W górę
+        move_down: W dół
+        edit: Edytuj
+        delete: Usuń
+        resize: minimalizuj/maksymalizuj
+
+region:
+    button:
+        min: Minimalizuj
+        max: Maksymalizuj

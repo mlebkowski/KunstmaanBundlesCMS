@@ -1,0 +1,21 @@
+translator:
+    translator:
+        title: Tłumaczenia
+        inline_edit_title: Wprowadź tłumaczenie
+        emptytext: brak tłumaczenia
+        invalid_translation: Niepoprawne tłumaczenie
+        fatal_error_occurred: A fatal error occured while saving the translation. Please try again later.
+    translations: Tłumaczenia
+    translation_not_unique: Klucz translacji powinien być unikalny
+
+settings:
+    translator:
+        add: Dodaj tłumaczenie
+        edit: Edytuj tłumaczenie
+        refresh_live: Opublikuj zmiany
+        import_translations: Importuj
+        import_translations_forced: Wymuś import
+        not_live_warning: "Wprowadzono zmiany, które nie są widoczne na witrynie. Użyj guzika „Opublikuj”"
+        choose_language: "Wybierz język"
+        succesful_added: "Zapisano"
+        succesful_edited: "Zapisano"

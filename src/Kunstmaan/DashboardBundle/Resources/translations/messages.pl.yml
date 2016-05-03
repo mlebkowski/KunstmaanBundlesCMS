@@ -1,0 +1,55 @@
+form:
+    back: 'Back'
+
+dashboard:
+    ga:
+        tab:
+            today: Dzisiaj
+            yesterday: Wczoraj
+            last_7_days: Ostatnie 7 dni
+            last_30_days: Ostatnie 30 dni
+            last_12_months: Ostatnie 12 miesięcy
+            year_to_date: Rok wstecz
+        chart:
+            users: Użytkownicy
+            pct_new_sessions: % nowych odwiedzin
+            sessions: Odwiedziny
+            pageviews: Odsłony
+            avg_pages_p_session: Ilość stron na odwiedziny
+            avg_session_duration: Sr. czas odwiedzin
+        setup:
+            goals:
+                disable: Wyłącz cele
+            title: Ustaw dashboard Google Analytics
+            content: "Więcej informacji na temat ustawiania tego widoku znajdziesz w"
+            docs_url: "http://bundles.kunstmaan.be/getting-started/advanced/setting-up-the-google-analytics-dashboard"
+            docs: dokumentacji
+            redirect: "Tak wygląda URL przekierowania:"
+            refresh: "Po zakończeniu konfiguracji po prostu odśwież tę stronę"
+            connect: Połącz z kontem Google Analytics
+            confirm: Połącz
+            profile:
+                title: Wybierz profil
+                select: Wybierz profil...
+                content: Wybierz profil dla tej strony
+            property:
+              title: Wybierz którą stronę pokazywać
+              select: Wybierz stronę...
+              content: Wybierz domenę dodaną do Google Analytics
+            account:
+                title: Wybierz konto
+                select: Wybierz konto...
+            link: Ustaw panel
+            back: Przejdź do panelu
+            segment:
+                add: Dodaj segment
+                info: ''
+                here: Informacje na temat tworzenia segmentów znajdziesz w dokumentacji
+                own: Własne segmenty
+                builtin: Standardowe segmenty
+            segments: Ustawienia segmentów
+            accounts: Ustawienia konta
+        reset:
+            property: Zmień powiązanie Google Analytics
+        last_update: "Ostatnio odświeżone:"
+        unavailable: Brak danych. Użyj guzika „odśwież”.

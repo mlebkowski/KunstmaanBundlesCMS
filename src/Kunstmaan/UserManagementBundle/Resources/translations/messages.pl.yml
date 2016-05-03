@@ -1,0 +1,24 @@
+# Settings
+settings:
+  groups: Grupy
+  group:
+      name: Nazwa
+      edit: Edytuj grupę
+      add: Dodaj grupę
+      roles: Role
+  users: Użytkownicy
+  user:
+      username: Nazwa użytkownika
+      password: Hasło
+      repeatedpassword: Powtórz hasło
+      adminlang: Język panelu
+      email: E-mail
+      enabled: Aktywny
+      roles: Grupy
+      add: Dodaj użytkownika
+      edit: Edytuj użytkownika
+  roles: Role
+  role:
+      role: Rola
+      add: Dodaj rolę
+      edit: Edytuj rolę

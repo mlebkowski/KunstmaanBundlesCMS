@@ -1,0 +1,95 @@
+# Media
+media:
+  aviary:
+    title: Aviary
+    nothing: Nothing to see here.
+
+  media:
+    no: Katalog jest pusty.
+    dnd:
+      tip: "Czy wiesz że:"
+      tiptext: możesz w to miejsce przeciągnąć pliki bezpośrednio z pulpitu?
+      alert:
+        title: Wgrywanie!
+        text: Upuść pliki aby rozpocząć wgrywanie.
+    bulkupload:
+      addto: Wgraj pliki do "%folder%"
+    contenttab:
+      title: Zawartość
+    propertiestab:
+      title: Właściwości
+    title: Media
+    add:
+      action: Dodaj pliki
+    edit:
+      action: Edytuj
+    download:
+      action: Pobierz
+    mediainfo:
+      name: Nazwa
+      contenttype: Typ pliku
+      createdat: Dodany
+      updatedat: Zmodyfikowany
+      downloadlink: Adres do pobrania
+    addto: Dodaj pliki do "%folder%"
+    deletesure: Czy jesteś pewien, że chcesz skasować?
+    new: Dodaj pliki do "%folder%"
+
+  folder:
+    addsub:
+      action: Dodaj katalog
+      action_short: Dodaj
+      modal:
+        title: Dodaj katalog
+        save: Dodaj
+    sub:
+      no: Brak katalogów.
+    delete:
+      action: Skasuj ten katalog
+      action_short: Skasuj
+      modal:
+        title: Skasuj katalog
+        text: Czy na pewno skasować "%folder%"?
+    save: Zapisz
+    contenttab:
+      title: Zawartość
+    propertiestab:
+      title: Właściwości
+    sortby: Sortu wg
+
+  bulkupload:
+    upload: Wgraj
+    bulkupload: Wgraj wiele
+    select_files: Wybierz pliki
+    upload_more: Wgraj więcej
+    back_to_folder: Powrót
+    upload_finished: Wgrywanie zakończone
+    not_available: The bulk upload functionality will not work for you. Your browser doesn't have Flash, Silverlight or HTML5 support.
+
+  slide:
+    add: Add Slide
+    modal:
+      title: Add Slide
+      save: Add
+  video:
+    add: Add Video
+    modal:
+      title: Add Video
+      save: Add
+  audio:
+    add: Add Audio
+    modal:
+          title: Add Audio
+          save: Add
+
+  file:
+    add: Add File
+    modal:
+      title: Add File
+      save: Add
+
+  widget:
+    choose: Choose
+    delete: Delete
+    media_chooser: Media-chooser
+    icon_chooser: Icon-chooser

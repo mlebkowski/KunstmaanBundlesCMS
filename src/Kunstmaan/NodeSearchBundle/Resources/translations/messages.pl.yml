@@ -1,0 +1,4 @@
+search:
+    search: Szukaj
+    results: Wyniki
+    looking_for: Wyszukiwana fraza: "%query%"

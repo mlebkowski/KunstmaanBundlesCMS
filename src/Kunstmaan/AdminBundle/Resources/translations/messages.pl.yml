@@ -1,0 +1,78 @@
+# Pages
+pages:
+  title: Strony
+  parts: Bloki
+  draft: Szkic
+  pagenottranslated: Strona nie została jeszcze przetłumaczona
+  copyfrom: Skopiuj z języka
+  createemptypage: Utwórz pustą
+  movingconfirmation: Czy na pewno chcesz przenieść "%title%" do "%target%"?
+
+# Modules
+modules:
+  title: Moduły
+
+# Settings
+settings:
+  title: Ustawienia
+  maintanance: Konserwacja
+  scheduled: Zaplanowane zadania
+  version:
+      bundle: Bundle versions
+      composer_lock_not_found: No composer.lock file found in your project root
+      error_parsing_composer: Error parsing composer.lock file, no valid json
+      error: Something went wrong while fetching the version information. Please try again later.
+      moreinfo: To update the bundles, run a composer update. It might be possible that you need to upgrade other bundles if you get conflicts.
+      uptodate: is up-to-date
+      toupdate: can be updated to
+      unknown: version information unknown
+
+# Tools
+tools:
+  title: Narzędzia
+  clear_frontend_cache: Wyczyść cache frontendowy
+  clear_backend_cache: Wyczyść cache backendowy
+  clear_all_caches: Wyczyść wszystkie cache
+  shutdown: Wyłacz
+
+# Forms
+form:
+  cancel: Cancel
+  delete: Delete
+  deletesure: Are you sure you want to delete this?
+  edit: Edit
+  add: Add New
+  save: Save
+  publish: Publish
+  unpublish: Unpublish
+  saveasdraft: Save as draft
+  name: Name
+  type: Type
+  error: Error
+  warning: Warning
+  headsup: Heads up
+  forgot:
+    password: Forgot my password.
+  permissions: Permissions
+  properties: Properties
+  createdat: Created At
+  updatedat: Updated At
+  actions: Actions
+  addfilter: Add filter
+  choosetypefilter: Filter on
+  versions: Versions
+
+omnext:
+  home: Home
+  title: Welcome!
+  welcome: Welcome.
+  information: <strong>Information.</strong> There are no new notifications.
+
+permissions:
+  you_made_changes: You have made changes to the permissions on this page.
+  apply_recursively: Apply these changes recursively on all child pages
+  review_changes: Review your changes
+  changes: Permission changes
+  permissions_added: 'The following permissions will be <strong>added</strong>:'
+  permissions_removed: 'The following permissions will be <strong>removed</strong>:'
+  role_name: Role name

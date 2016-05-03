@@ -1,0 +1,15 @@
+subaction:
+    versions: "Poprzednie wersje"
+
+action:
+    saveasdraft: "Zapisz szkic"
+    publish: "Opublikuj"
+    unpublish: "Cofnij publikację"
+    preview: "Podgląd"
+    save: "Zapisz"
+    delete: "Skasuj"
+    addsubpage: "Dodaj podstronę"
+    duplicate: "Duplikuj"
+
+pages:
+    copynotavailable: "Należy najpierw przetłumaczyć stronę nadrzędną"

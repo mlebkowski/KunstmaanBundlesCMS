@@ -1,0 +1,4 @@
+redirect:
+    all: Wszystkie domeny
+    origin_info: Adres który chesz przekierować, np. /kontakt
+    target_info: Adres docelowy, np. /o-nas/kontakt
